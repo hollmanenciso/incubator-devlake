@@ -3,3 +3,4 @@ setuptools
 wheel
 dbt-mysql
 dbt-postgres
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
