@@ -3,3 +3,4 @@ setuptools
 wheel
 dbt-mysql
 dbt-postgres
+mysql-connector-python>=8.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
